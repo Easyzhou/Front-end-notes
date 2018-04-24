@@ -1,20 +1,21 @@
 # React_Toilet
 #react-native 找厕所APP小程序     
->## 项目运行
+## 项目运行
 服务端：
 #### npm install
 #### npm start
-客户端
-react-native start
-react-native run-android
+客户端：
+#### npm install
+####react-native start
+####react-native run-android
 
-模拟器（或者真机）：adb devices
-如果是夜神模拟器要先：adb connect 127.0.0.1:62001
-然后摇一摇，设置Debug Server 地址为本ip+端口号
+####模拟器（或者真机）：adb devices
+####如果是夜神模拟器要先：adb connect 127.0.0.1:62001
+####然后摇一摇，设置Debug Server 地址为本ip+端口号
 （具体可以参考：https://blog.csdn.net/yubo_725/article/details/73574111）
                           
 
->## 服务端
+## 服务端
 
 
 ## 获取几个模块列表服务接口:   
@@ -29,7 +30,7 @@ react-native run-android
 #### /data/read?type=config       
 
 
->## 客户端
+## 客户端
 
 ##### 地图中自动搜索附近2KM以内的卫生间，提供卫生间基础信息，以及路线导航规划。       
           
