@@ -1,5 +1,7 @@
 # React_Toilet
-#react-native 找厕所APP小程序     
+#react-native 找厕所APP小程序 （安卓版）
+
+
 ## 项目运行
 服务端：
 #### npm install
@@ -8,7 +10,6 @@
 #### npm install
 ####react-native start
 ####react-native run-android
-
 ####模拟器（或者真机）：adb devices
 ####如果是夜神模拟器要先：adb connect 127.0.0.1:62001
 ####然后摇一摇，设置Debug Server 地址为本ip+端口号
@@ -17,8 +18,7 @@
 
 ## 服务端
 
-
-## 获取几个模块列表服务接口:   
+获取几个模块列表服务接口:  
        
 #### /data/read?type=cookies        
 #### /data/read?type=it      
