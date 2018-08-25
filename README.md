@@ -1,40 +1,41 @@
-# React_Toilet
-#react-native 找厕所APP小程序 （安卓版）
+# front-end-notes
+前端笔记系列，记录分享前端（JavaScript/数据结构/算法）相关零碎知识、面包整理，持续更新... 
+
+[访问网页版](https://hongqingcao.github.io/front-end-notes/#/)
+
+### clone或者直接下载到本地
+
+### 安装环境
+> npm i docsify-cli -g
+
+### 启动本地查看
+> docsify serve docs
 
 
-## 项目运行
-服务端：
-#### npm install
-#### npm start
-客户端：
-#### npm install
-#### react-native start
-#### react-native run-android
-#### 模拟器（或者真机）：adb devices
-#### 如果是夜神模拟器要先：adb connect 127.0.0.1:62001
-#### 然后摇一摇，设置Debug Server 地址为本ip+端口号
-（具体可以参考：https://blog.csdn.net/yubo_725/article/details/73574111）
-                          
+* NEWS(1个)<span class="new"></span>
+* [JavaScript知识点](./docs/javascript/js-0.md)  
+* 基础知识
 
-## 服务端
+	* [变量类型分类和判断、强制类型转换](./docs/javascript/js-1.md)    
+	* [原型与原型链（继承)](./docs/javascript/js-2.md)
+    * [对象](./docs/javascript/js-3.md)      
+	* [作用域和闭包(执行上下文、this)](./docs/javascript/js-4.md) 
+    * [同步\异步\单线程、对应场景](./docs/javascript/js-5.md)  
+ 
+* ES6/7/8 新标准  
+  * [如何让Nodejs支持对应的ES](./docs/javascript/js-6.md)  
+  * [ES6常用新特性](./docs/javascript/js-7.md)  
+  * [ES7新特性](./docs/javascript/js-8.md)  
+  * [ES8新特性](./docs/javascript/js-9.md)  
+  
+* JS-Web-API 知识点
+  * [BOM、DOM 操作](./docs/javascript/js-10.md)  
+  * [事件绑定](./docs/javascript/js-11.md)  
+  * [Ajax](./docs/javascript/js-12.md) 
+  * [HTTP](./docs/javascript/js-13.md)  
+  * [存储](./docs/javascript/js-14.md)  
+  * [跨域](./docs/javascript/js-15.md)  
 
-获取几个模块列表服务接口:  
-       
-#### /data/read?type=cookies        
-#### /data/read?type=it      
-#### /data/read?type=manager        
-#### /data/read?type=sanwen       
+* 数据结构与算法
 
-## 获取首页配置:  
-     
-#### /data/read?type=config       
-
-
-## 客户端
-
-##### 地图中自动搜索附近2KM以内的卫生间，提供卫生间基础信息，以及路线导航规划。       
-          
-#### 文章阅读，包含推荐文章和分类                            
-#### 当地的实时天气      
-
-###ps:本项目仅用于学习使用
+* 面试题
