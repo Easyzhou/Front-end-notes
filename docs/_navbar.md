@@ -1,5 +1,5 @@
 * 分类导航
-  * [Html/CSS/浏览器/网络/优化](./javascript/js-0)
+  * [Html/CSS/浏览器/网络/优化](htmlcss/hc-0)
   * [JavaScript/数据结构/算法](https://hongqingcao.github.io/front-end-notes/)
   * [Vue/React/Angular/Node](404)
   * [微信/小程序](404)

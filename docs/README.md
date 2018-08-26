@@ -1,2 +1,5 @@
-# Front-end-notes Edit by codercao
-评论中可以给出自己的见解和答案，一起学习进步
+# 写在前面
+前端知识碎片拾取者，如果您有更好的答案和见解，欢迎在底部lssues，一起学习进步  
+  
+    
+Front-end-notes Edit by codercao

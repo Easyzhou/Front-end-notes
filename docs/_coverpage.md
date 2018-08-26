@@ -1,18 +1,16 @@
 ![logo](_media/logo.png)
 
-# Front-end-notes-javascript
+# Front-end-notes-htmlcss
 
-
-> **前端笔记系列之（JavaScript/数据结构/算法）**
-
+> **前端笔记系列之（Html/Css/Sass/Less/浏览器/网络）**
 
 
 * 记录分享前端框架源码、前端技巧、面试题整理，持续更新...
 
 * 求知、折腾、分享、集腋成裘
 
-[GitHub](https://github.com/HongqingCao/front-end-notes)
-[Get Started](/javascript/js-0.md)
+[GitHub](https://github.com/HongqingCao/front-end-notes-htmlcss)
+[Get Started](/htmlcss/hc-0)
 
 
 ![color](#f0f0f0)
