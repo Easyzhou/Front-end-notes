@@ -3,7 +3,7 @@
 Html/Css/Sass/Less/JavaScript/Vue/React/Angular/Node/微信/小程序/数据结构/算法/浏览器/网络/优化  
 记录分享前端基础知识、框架源码、前端技巧，持续更新...
 
-[访问网页版](https://hongqingcao.github.io/Front-end-notes-htmlcss/#/)
+[访问网页版](https://hongqingcao.github.io/Front-end-notes/#/)
 
 ### clone或者直接下载到本地
 
