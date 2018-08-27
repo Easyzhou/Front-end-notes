@@ -37,10 +37,11 @@
 * 作用域和闭包(执行上下文、this)
 * 同步\异步\单线程、对应场景
 	
-2.2 [ES6新标准 ](javascript/js-2.md)  
-2.3 [ES7新特性](javascript/js-3.md)  
-2.4 [ES8新特性](javascript/js-4.md)  
-2.5 [常用的JS-Web-API](javascript/js-5.md)  
+2.2 [ES6新标准 ](javascript/js-2.md)    
+2.3 [ES7新特性](javascript/js-3.md)    
+2.4 [ES8新特性](javascript/js-4.md)    
+2.5 [常用的JS-Web-API](javascript/js-5.md)   
+
 
 * BOM、DOM 操作
 * 事件绑定
