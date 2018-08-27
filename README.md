@@ -14,11 +14,11 @@ Html/Css/Sass/Less/JavaScript/Vue/React/Angular/Node/微信/小程序/数据结�
 > docsify serve docs
 
   
-### [目录](home.md) 
+### [目录](./docs/home.md) 
   
 ## 一、Html-CSS
 
-  * [Html知识点](htmlcss/html1.md)
+  * [Html知识点](./docs/htmlcss/html1.md)
     
     * Html元素分类/理解语义化
 	* HTML XHML HTML5
@@ -30,7 +30,7 @@ Html/Css/Sass/Less/JavaScript/Vue/React/Angular/Node/微信/小程序/数据结�
 	* px/rem/em/i
 	* form的作用
 	  
-  * [CSS知识点](htmlcss/css1.md)
+  * [CSS知识点](./docs/htmlcss/css1.md)
     
     * css Hack
 	* 雪碧图、字体图标、base64
@@ -45,7 +45,7 @@ Html/Css/Sass/Less/JavaScript/Vue/React/Angular/Node/微信/小程序/数据结�
 
 ## 二、JS/ES6/7/8
 
-  * [JS基础](javascript/js-1.md)
+  * [JS基础](./docs/javascript/js-1.md)
     
     * 变量类型分类和判断、强制类型转换   
 	* 原型与原型链（继承)
@@ -53,10 +53,10 @@ Html/Css/Sass/Less/JavaScript/Vue/React/Angular/Node/微信/小程序/数据结�
 	* 作用域和闭包(执行上下文、this)
 	* 同步\异步\单线程、对应场景
 	
-  * [ES6新标准 ](javascript/js-2.md)
-  * [ES7新特性](javascript/js-3.md)
-  * [ES8新特性](javascript/js-4.md)
-  * [常用的JS-Web-API](javascript/js-5.md)
+  * [ES6新标准 ](./docs/javascript/js-2.md)
+  * [ES7新特性](./docs/javascript/js-3.md)
+  * [ES8新特性](./docs/javascript/js-4.md)
+  * [常用的JS-Web-API](./docs/javascript/js-5.md)
     
     * BOM、DOM 操作
 	* 事件绑定
@@ -64,9 +64,9 @@ Html/Css/Sass/Less/JavaScript/Vue/React/Angular/Node/微信/小程序/数据结�
 
 ## 三、浏览器网络相关
 
-  * [渲染过程和性能优化](net/net-1.md)
-  * [HTTP协议](net/net-2.md)
-  * [存储](net/net-3.md)
+  * [渲染过程和性能优化](./docs/net/net-1.md)
+  * [HTTP协议](./docs/net/net-2.md)
+  * [存储](./docs/net/net-3.md)
  
 
 
