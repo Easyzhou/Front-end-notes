@@ -14,6 +14,12 @@ Html/Css/Sass/Less/JavaScript/Vue/React/Angular/Node/微信/小程序/数据结�
 > docsify serve docs
 
 ### 目录导航 
+
+#### NEW
+* [2018-09 JS常见笔试题](./docs/javascript/js-6.md)
+* [2018-09 简历模板](./docs/resume)
+
+
 #### 一、Html-CSS
 
 1.1 [Html知识点](./docs/htmlcss/html1.md)

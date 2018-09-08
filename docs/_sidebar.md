@@ -1,5 +1,7 @@
 * NEWS(1个)<span class="new"></span>
   * [目录](home.md) 
+  * [2018-09 JS常见笔试题](javascript/js-6.md)
+  * [2018-09 前端简历模板](resume/resume)
   
 * Html-CSS
 
